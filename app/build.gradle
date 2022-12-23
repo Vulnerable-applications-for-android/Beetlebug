@@ -5,7 +5,7 @@ plugins {
 
 android {
     compileSdk 30
-
+    ext.kotlin_version = '1.5.32'
     defaultConfig {
         applicationId "app.beetlebug"
         minSdk 23
